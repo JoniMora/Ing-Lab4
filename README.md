@@ -4,9 +4,10 @@
 
 - Crear un repositorio local en un nuevo directorio.
 - Agregar un archivo Readme.md, que contenga tu nombre y un link a tu CV. Tu cv será otro archivo en el mismo formato, en la misma carpeta.
-- Crear los commits de cada caso y proveer mensajes descriptivos.
  - [Readme.md](https://github.com/JoniMora/Lab4/blob/master/README.md)
  - [Curriculum Vitae](https://github.com/JoniMora/Lab4/blob/master/CV.md)
+- Crear los commits de cada caso y proveer mensajes descriptivos.
+
 ![](https://github.com/JoniMora/Ing-Lab4/blob/master/Tp1/Imagen/Creo%20repositorio%20local.png)
 ![](https://github.com/JoniMora/Ing-Lab4/blob/master/Tp1/Imagen/commit%20readme%20y%20cv.png)
 
@@ -48,4 +49,5 @@
 ![](https://github.com/JoniMora/Ing-Lab4/blob/master/Tp1/Imagen/Error%20push.png)
 
 ![](https://github.com/JoniMora/Ing-Lab4/blob/master/Tp1/Imagen/Se%20subio%20el%20clon.png)
+
 
